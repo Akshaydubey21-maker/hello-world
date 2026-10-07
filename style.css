@@ -1,0 +1,30 @@
+*{
+    color: white;
+    
+}
+
+body{
+    background-color:rgb(46, 94, 134);
+}
+h1{
+    text-align: center;
+}
+#td{
+    text-decoration: line-through; 
+    color:black;
+
+}
+#phone{
+    height: 300px;
+    
+}
+#button{
+  background-color:rgb(246, 136, 1)
+}
+#tb{
+    text-decoration: line-through; 
+    color:black;
+}
+#tm{
+    height: 500px;
+}
